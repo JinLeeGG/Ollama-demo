@@ -4,7 +4,7 @@ A demonstration project showcasing local AI model deployment and interaction usi
 
 ## Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10.11 
 - Command line interface (Terminal/CMD)
 - Internet connection for initial setup
 
