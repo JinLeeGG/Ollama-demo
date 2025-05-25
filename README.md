@@ -3,9 +3,11 @@
 A demonstration project showcasing local AI model deployment and interaction using Ollama.
 
 ## Demo Examples
+* Custom AI agent (Jarvis)
 
+* package.py (llama2, prompt = "What is capitalism?")
 
-
+* sample.py (mistral, prompt = "What happened in Korea in 1950?")
 
 
 
