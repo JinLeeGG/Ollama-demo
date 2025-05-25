@@ -2,6 +2,13 @@
 
 A demonstration project showcasing local AI model deployment and interaction using Ollama.
 
+## Demo Examples
+
+
+
+
+
+
 ## Prerequisites
 
 - Python 3.10.11 
@@ -80,10 +87,10 @@ With your virtual environment activated, execute the following commands:
 
 ```bash
 # Run the main package
-python run ../../package.py
+python ../../package.py
 
 # Run sample requests
-python run ../../sample_requests.py
+python ../../sample_requests.py
 ```
 
 ### Creating Custom AI Agents
